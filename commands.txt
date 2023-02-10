@@ -1,0 +1,34 @@
+terminal length 0
+show running-config
+show ip interface brief
+show interface status
+show interface des
+show mac address-table 
+show ip arp
+show cdp neighbors
+show cdp neighbors detail
+show lldp neighbors
+show lldp neighbors detail
+show vlan
+show version
+show spanning-tree 
+show switch
+show switch stack-ports 
+show environment all
+show environment status
+show environment temperature
+show inventory
+show inventory raw 
+show interface
+show etherchannel summary 
+show vtp status
+show vtp password
+show flash:
+show ip route
+show process cpu
+show process cpu history
+show process memory
+show memory statistics
+show running-config all
+show logging
+terminal length 50
