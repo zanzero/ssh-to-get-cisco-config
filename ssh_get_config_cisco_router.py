@@ -14,7 +14,7 @@ def get_config(host, command):
     ssh.close()
     return output
 
-
+aa = 'ttt'
 commands_list = list()
 with open('commands.txt', 'r') as commands:
     line = commands.readline()
